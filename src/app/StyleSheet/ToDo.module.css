@@ -1,0 +1,93 @@
+.Pencil{
+    width: 20px;
+    height: 20px;
+    margin-left: 25px;
+    color: #fff;
+}
+.Trash{
+    width: 20px;
+    height: 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    background-color: #1A8BBB;  
+    color: #fff;
+    box-shadow: 0px 14px 44px 0px rgba(80, 86, 107, 0.15);
+    width: 392px;
+    height: 80px;
+    margin-bottom:20px ;
+}
+.mainConclose{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    background-color: bisque;
+
+}
+.mainOptions{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 392px;
+    height: 576px;
+    background-color:white;
+    box-shadow: 0px 14px 44px 0px rgba(80, 86, 107, 0.15);
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.10);
+    width: 332px;
+    height: 74px;
+
+
+} 
+.circle{
+    border-radius: 50%;
+    border: 1px solid #B7BCCB;
+    width:17px;
+    height: 17px;
+}
+.number{
+    width: 61px;
+    height: 32px;
+    border-radius: 50px;
+    background: #025579;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.words{
+    font-family: Poppins;
+    font-size: 24px;
+}
+.input2{
+    margin-top: 20px;
+    width: 332px;
+    height: 45px;
+    border-radius: 40px;
+    border: 1px solid #E6E6E6;
+
+
+}
+.word{
+    margin-right: 70px;
+}
+.tovcluur{
+    width: 151px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    background: #1A8BBB;
+    color: white;
+    margin-top: 50px;
+}
+.tovc{
+    z-index: relative;
+}

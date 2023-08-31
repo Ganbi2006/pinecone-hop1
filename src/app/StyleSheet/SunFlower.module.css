@@ -1,0 +1,16 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.MainConpose{
+    background-color: aquamarine;
+    width: 1440px;
+    height: 2338px;  
+}
+.pepsi{
+    width: 363px;
+    height: 440px;  
+    background-color: azure;
+
+}
